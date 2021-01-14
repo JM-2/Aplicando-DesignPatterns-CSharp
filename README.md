@@ -11,4 +11,4 @@
 - Template Method
 - Decorator
 
-[DesignPatternSamples](https://github.com)
+[DesignPatternSamples](https://github.com/JM-2/Aplicando-DesignPatterns-CSharp/tree/master/DesignPatternSamples-main)
